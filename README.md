@@ -1,16 +1,53 @@
-## Hi there 👋
+# Ivan Ivanov — Backend Developer (Java & Spring Boot)
 
-<!--
-**IvanIvanovv2002/IvanIvanovv2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend applications that are clean, scalable, and easy to maintain.  
+My focus is on **Java, Spring Boot, REST APIs**, and solid system design.  
+I also work with **HTML, CSS, JavaScript, and basic React** for full-stack projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Spring Security
+- REST APIs
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React (basic)
+
+### Databases
+- MySQL
+- Hibernate / JPA
+
+### Tools & DevOps
+- Git & GitHub
+- Docker
+- IntelliJ IDEA
+
+---
+
+## 🧠 What I Work On
+- Designing and implementing REST APIs
+- Building Spring Boot backend applications
+- Database modeling and SQL
+- Authentication & authorization
+- Full-stack university projects
+- Learning system design fundamentals
+
+---
+
+## 📌 Featured Projects
+- **Spring + React E-commerce Application**
+- **Java Spring Cinema App**
+- **Spring Jewelry Store**
+- **University Web Projects (HTML/CSS/JS)**
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/IvanIvanov2002
