@@ -1,53 +1,50 @@
-# Ivan Ivanov — Backend Developer (Java & Spring Boot)
+I build backend systems that are clean, predictable, and easy to integrate with.
+My focus is on Java, Spring Boot, REST APIs, SQL, Docker, and reliable architecture.
+I also work with JavaScript/React for full-stack projects when needed.
 
-I build backend applications that are clean, scalable, and easy to maintain.  
-My focus is on **Java, Spring Boot, REST APIs**, and solid system design.  
-I also work with **HTML, CSS, JavaScript, and basic React** for full-stack projects.
+🚀 Tech Stack
+Backend:
+Java Spring Boot Spring Security NodeJS
 
----
+Frontend:
+React JavaScript HTML CSS
 
-## 🚀 Tech Stack
+Databases & Persistence:
+MySQL Hibernate
 
-### Backend
-- Java
-- Spring Boot
-- Spring Security
-- REST APIs
+DevOps & Tools:
+Docker Git GitHub
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React (basic)
+🧭 What I Work On
+Designing and implementing REST APIs
+Building Spring Boot backend applications
+Structuring data with SQL/MySQL and Hibernate/JPA
+Integrating authentication & authorization with Spring Security
+Containerizing and deploying services using Docker
+Developing React frontends for full-stack apps
+I prefer clean code, simple architecture, readable repos, and systems that behave exactly as expected.
 
-### Databases
-- MySQL
-- Hibernate / JPA
+🌟 Featured Projects
+🏁 Pathfinder
+A full Spring Boot application featuring user management, authentication, routes, images, and more.
+Tech: Java, Spring Boot, Spring Security, MySQL, JPA, Thymeleaf
+🔗 https://github.com/yavorhr/Pathfinder
 
-### Tools & DevOps
-- Git & GitHub
-- Docker
-- IntelliJ IDEA
+🔐 Authentication & Role Management (Spring Boot)
+A clean implementation of JWT security, user roles, and access rules.
+Tech: Java, Spring Boot, Spring Security, MySQL
+🔗 (add the link when your repo is ready)
 
----
+📦 REST API Starter (NodeJS)
+Simple, structured REST API template for Node + Express projects.
+Tech: NodeJS, Express, MySQL
+🔗 (add link)
 
-## 🧠 What I Work On
-- Designing and implementing REST APIs
-- Building Spring Boot backend applications
-- Database modeling and SQL
-- Authentication & authorization
-- Full-stack university projects
-- Learning system design fundamentals
+📊 GitHub Stats
+GitHub Stats
 
----
+📬 Contact
+If you want to talk backend architecture, clean code, or project ideas — reach out.
 
-## 📌 Featured Projects
-- **Spring + React E-commerce Application**
-- **Java Spring Cinema App**
-- **Spring Jewelry Store**
-- **University Web Projects (HTML/CSS/JS)**
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/IvanIvanov2002
+LinkedIn: (add your link)
+Email: (optional)
