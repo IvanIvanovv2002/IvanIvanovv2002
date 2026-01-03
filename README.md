@@ -52,6 +52,11 @@
 ![Mockito](https://img.shields.io/badge/Mockito-59666C?style=for-the-badge)
 ![unittest](https://img.shields.io/badge/Python_unittest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+---
+
+### 🗂 Workflow & Collaboration
+Jira · Agile / Scrum methodologies
+
 ## 🧩 Featured Projects
 
 ### 🛒 E-Commerce Platform
