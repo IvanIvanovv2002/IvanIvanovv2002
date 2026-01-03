@@ -41,22 +41,25 @@
 ---
 
 ### 🧰 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## 🧩 Featured Projects
-<details>
-<summary>🔽 Click to expand</summary>
 
-- 🔐 **Secure REST API** – Spring Boot + Spring Security + JWT
-- 📦 **Microservice Demo** – Dockerized backend services
-- ⚛ **React Dashboard** – Clean UI with REST integration
+### 🛒 E-Commerce Platform
+🔗 **Live Demo:** https://deployment-latest-7tf3.onrender.com
 
-</details>
+<sub>⏳ Note: The initial load may take **30–50 seconds** as the container spins up on Render.</sub>
 
----
+**Tech Stack:**  
+Java · Spring Boot · Spring Security · JWT · PostgreSQL · Cloudinary · React
+
+**Description:**  
+Backend-driven e-commerce application featuring secure JWT-based authentication,  
+role-based access control, RESTful APIs, database persistence with PostgreSQL,  
+and media management via Cloudinary.  
+The system is complemented by a React frontend for user interaction.
 
 ## 🌍 Connect With Me
 [![LinkedIn](https://www.linkedin.com/in/ivan-ivanov-181513300/)
