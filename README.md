@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm <Your Name>
+# 👋 Hi, I'm Ivan Ivanov
 
 🚀 Backend-focused developer with a passion for building **secure, scalable, and efficient systems**.  
 💡 I enjoy working across the stack, from **API design** to **clean UI integration**.
@@ -7,10 +7,10 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Currently working with **Java & Spring Boot**
-- 🌱 Improving my skills in **system design & performance**
-- 🛠 Love solving real-world problems with clean architecture
-- 📫 How to reach me: **your.email@example.com**
+- 🔭 Backend-focused developer specialized in **Java & Spring Boot**
+- 🧩 Strong background in **system design** and **build & infrastructure migration**
+- 🛠 Strong backend foundations with practical frontend experience (React)
+- 📫 How to reach me: **ivan.valentinov.ivanov2002@gmail.com**
 
 ---
 
