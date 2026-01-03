@@ -45,6 +45,11 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+### 🧪 Testing & Quality Assurance
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-59666C?style=for-the-badge)
+![unittest](https://img.shields.io/badge/Python_unittest-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ## 🧩 Featured Projects
 
 ### 🛒 E-Commerce Platform
