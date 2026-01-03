@@ -57,6 +57,8 @@
 ### 🗂 Workflow & Collaboration
 Jira · Agile / Scrum methodologies
 
+---
+
 ## 🧩 Featured Projects
 
 ### 🛒 E-Commerce Platform
