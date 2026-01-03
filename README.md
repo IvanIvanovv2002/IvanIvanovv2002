@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Ivan Ivanov
 
 🚀 Backend-focused developer with a passion for building **secure, scalable, and efficient systems**.  
-💡 I enjoy working across the stack, from **API design** to **clean UI integration**.
+💡 I specialize in **backend architecture and API design**, with practical experience integrating clean and efficient UIs.
 
 ---
 
@@ -45,19 +45,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🧩 Featured Projects
 <details>
@@ -72,8 +59,8 @@
 ---
 
 ## 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://www.linkedin.com/in/ivan-ivanov-181513300/)
+[![Facebook](https://www.facebook.com/vancovski/)
 
 ---
 
