@@ -60,22 +60,6 @@
 
 ---
 
-## 🧩 Featured Projects
-
-### 🛒 E-Commerce Platform
-🔗 **Live Demo:** https://deployment-latest-7tf3.onrender.com
-
-<sub>⏳ Note: The initial load may take **30–50 seconds** as the container spins up on Render.</sub>
-
-**Tech Stack:**  
-Java · Spring Boot · Spring Security · JWT · PostgreSQL · Cloudinary · React
-
-**Description:**  
-Backend-driven e-commerce application featuring secure JWT-based authentication,  
-role-based access control, RESTful APIs, database persistence with PostgreSQL,  
-and media management via Cloudinary.  
-The system is complemented by a React frontend for user interaction.
-
 ## 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-ivanov-181513300/)
