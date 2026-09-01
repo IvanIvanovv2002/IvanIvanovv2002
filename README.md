@@ -23,6 +23,16 @@
 
 ---
 
+## 🏛 Enterprise Applications — Spring
+- ⚙️ Building layered enterprise applications with **Spring Boot**, **Spring Data JPA**, and **Spring Security** — clear separation between controller, service, and repository layers
+- 🧱 Designing **generic, reusable CRUD abstractions** (base controllers/services) to speed up delivery across many business entities
+- 🔑 Method-level authorization with `@PreAuthorize` and fine-grained, permission-based access control
+- 🧬 Schema evolution and versioned database migrations with **Liquibase**, integrated into the Spring Boot lifecycle
+- 🧰 Comfortable with the wider Spring ecosystem — **Spring Validation**, **Spring Data Specifications** for dynamic filtering, and **Spring Boot Actuator** for health monitoring
+- 🧪 Testing Spring applications with **JUnit 5**, **Mockito**, and integration tests backed by real databases
+
+---
+
 ## ⚙️ Tech Stack
 
 ### 🖥 Backend
@@ -54,6 +64,14 @@
 ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
 ![Multi--Tenancy](https://img.shields.io/badge/Multi--Tenancy-4B0082?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+---
+
+### 🏛 Enterprise & Spring Ecosystem
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Validation](https://img.shields.io/badge/Spring_Validation-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
