@@ -1,16 +1,25 @@
-
 # 👋 Hi, I'm Ivan Ivanov
-
 🚀 Backend-focused developer with a passion for building **secure, scalable, and efficient systems**.  
-💡 I specialize in **backend architecture and API design**, with practical experience integrating clean and efficient UIs.
+💡 I specialize in **backend architecture and API design**, with hands-on experience designing **ERP platforms** and integrating clean, efficient UIs.
 
 ---
 
 ## 🧑‍💻 About Me
 - 🔭 Backend-focused developer specialized in **Java & Spring Boot**
+- 🏗 Experienced in designing **modular, multi-tenant ERP architectures** for real-world business domains
 - 🧩 Strong background in **system design** and **build & infrastructure migration**
 - 🛠 Strong backend foundations with practical frontend experience (React)
 - 📫 How to reach me: **ivan.valentinov.ivanov2002@gmail.com**
+
+---
+
+## 🏢 ERP & Business Systems
+- 📦 Designing **modular ERP frameworks** — reusable core layers (auth, auditing, document workflows, multi-tenancy) shared across business verticals
+- 🔐 Implementing **role-based access control** and secure multi-user business systems
+- 🧾 Building **document-centric workflows** — invoicing, stock management, numbering, and state machines for business processes
+- 🗃 Designing **relational data models** for inventory, partners, and financial documents with Spring Data JPA & Hibernate
+- 🌐 Architecting systems with **REST APIs** as the core integration layer, supporting both local and cloud deployments
+- 📊 Experience translating real business requirements (food industry, agriculture, automotive services) into structured software modules
 
 ---
 
@@ -40,6 +49,14 @@
 
 ---
 
+### 🏢 ERP & Architecture
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
+![Multi--Tenancy](https://img.shields.io/badge/Multi--Tenancy-4B0082?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+---
+
 ### 🧰 DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -61,8 +78,5 @@
 ---
 
 ## 🌍 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-ivanov-181513300/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vancovski/)
-
-
